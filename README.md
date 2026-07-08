@@ -25,7 +25,6 @@ location : 📍 Multan, Pakistan
 role     : [ CS Student, Full Stack Developer, Problem Solver ]
 studying : UET Lahore — 3rd Year (2023-2027)
 interests: [ Web Dev, Open Source ]
-status   : Building NXT Neighbour & a Restaurant POS System 🔨
 ```
 
 > *"The competent programmer is fully aware of the limited size of his own skull."* — Edsger W. Dijkstra
