@@ -24,7 +24,7 @@ name     : Sehrish Saif
 location : 📍 Multan, Pakistan
 role     : [ CS Student, Full Stack Developer, Problem Solver ]
 studying : UET Lahore — 3rd Year (2023-2027)
-interests: [ Web Dev, Computer Vision, Freelancing, Open Source ]
+interests: [ Web Dev, Open Source ]
 status   : Building NXT Neighbour & a Restaurant POS System 🔨
 ```
 
