@@ -85,7 +85,7 @@ status   : Building NXT Neighbour & a Restaurant POS System 🔨
 
 <div align="center">
 
-<a href="https://linkedin.com/in/sehrish-saif"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sehrish-saif-8374a6290/"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sehrishsaif787@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-e05fff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
